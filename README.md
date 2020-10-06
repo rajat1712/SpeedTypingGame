@@ -1,4 +1,4 @@
 # SpeedTypingGame
-Speed Typing Game using vanilla Javascipt
+Speed Typing Game using vanilla Javascript
 
 https://rajat1712.github.io/SpeedTypingGame/
